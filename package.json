@@ -1,0 +1,25 @@
+{
+  "name": "ejs-layout-chain",
+  "version": "1.0.0",
+  "description": "ejs layout chain level",
+  "main": "lib/layout-chain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gongxiancao/ejs-layout-chain.git"
+  },
+  "keywords": [
+    "ejs",
+    "layout",
+    "level",
+    "chain"
+  ],
+  "author": "GongXian Cao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gongxiancao/ejs-layout-chain/issues"
+  },
+  "homepage": "https://github.com/gongxiancao/ejs-layout-chain#readme"
+}
