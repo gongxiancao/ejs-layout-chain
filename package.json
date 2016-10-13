@@ -1,6 +1,6 @@
 {
   "name": "ejs-layout-chain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ejs layout chain level",
   "main": "lib/layout-chain.js",
   "scripts": {
